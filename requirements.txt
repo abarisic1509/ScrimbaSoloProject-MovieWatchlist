@@ -1,0 +1,4 @@
+1. two pages: index.html & watchlist.html
+2. Index = search page, call OMDB API and display search results
+3. button 'add to watchlist' which saves data to local storage
+4.watchlist loads data from local and displays it
